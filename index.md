@@ -1,4 +1,3 @@
 # Header
 ###### Subtitle
 
-**Hello world!**
