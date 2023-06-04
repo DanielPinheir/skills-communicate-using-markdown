@@ -24,3 +24,8 @@ Push next commits
 $git pull origin main
 Pull from remote repository to local repository
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
