@@ -1,6 +1,6 @@
-# Header
-## Subtitle
-![Image of Pug](https://awari.com.br/wp-content/uploads/2022/09/estagios-do-versionamento-de-codigo-feito-pelo-Git.png)
+# Github
+## Initial commands on Github
+![Github image](https://awari.com.br/wp-content/uploads/2022/09/estagios-do-versionamento-de-codigo-feito-pelo-Git.png)
 
 ```
 $ git init
