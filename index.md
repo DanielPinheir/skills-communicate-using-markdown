@@ -25,7 +25,6 @@ $git pull origin main
 Pull from remote repository to local repository
 ```
 
-
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
 - [ ] Introduce myself to the world
